@@ -1,0 +1,11 @@
+C:\Users\FredBainbridge\source\repos\astHelper\bin\Debug\netcoreapp2.1\astHelper.deps.json
+C:\Users\FredBainbridge\source\repos\astHelper\bin\Debug\netcoreapp2.1\astHelper.runtimeconfig.json
+C:\Users\FredBainbridge\source\repos\astHelper\bin\Debug\netcoreapp2.1\astHelper.runtimeconfig.dev.json
+C:\Users\FredBainbridge\source\repos\astHelper\bin\Debug\netcoreapp2.1\astHelper.dll
+C:\Users\FredBainbridge\source\repos\astHelper\bin\Debug\netcoreapp2.1\astHelper.pdb
+C:\Users\FredBainbridge\source\repos\astHelper\obj\Debug\netcoreapp2.1\astHelper.csprojAssemblyReference.cache
+C:\Users\FredBainbridge\source\repos\astHelper\obj\Debug\netcoreapp2.1\astHelper.csproj.CoreCompileInputs.cache
+C:\Users\FredBainbridge\source\repos\astHelper\obj\Debug\netcoreapp2.1\astHelper.AssemblyInfoInputs.cache
+C:\Users\FredBainbridge\source\repos\astHelper\obj\Debug\netcoreapp2.1\astHelper.AssemblyInfo.cs
+C:\Users\FredBainbridge\source\repos\astHelper\obj\Debug\netcoreapp2.1\astHelper.dll
+C:\Users\FredBainbridge\source\repos\astHelper\obj\Debug\netcoreapp2.1\astHelper.pdb
